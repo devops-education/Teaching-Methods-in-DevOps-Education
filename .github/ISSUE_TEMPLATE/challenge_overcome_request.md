@@ -1,7 +1,7 @@
 ---
-name: Teaching Experience Request
-about: " Sharing teaching experience. If this doesn’t look right, choose a different type."
-title: "<Short sentence that resume how the teaching method was implement in a DevOps course>"
+name: Challenge Overcome Request
+about: " Sharing the challenge overcome. If this doesn’t look right, choose a different type."
+title: "<Short sentence that resume how the challenge was overcome by the teaching method in your DevOps course>"
 labels: new-teaching-method-experience
 assignees: ''
 

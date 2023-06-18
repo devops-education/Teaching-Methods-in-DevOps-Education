@@ -16,17 +16,91 @@
 </p>
 
 
-It's a repository that contains a set of teaching experiences in DevOps. The objective is to help DevOps educators to teach DevOps. Some of theses teaching experiences are found in the paper [Overcoming Challenges in DevOps Education through Teaching Methods](https://arxiv.org/pdf/2302.05564.pdf) published at the academic conference **ICSE'23: Proceedings of the IEEE/ACM International Conference on Software Engineering**. 
+It's a repository that contains a set of teaching experiences in DevOps. The objective is to help DevOps educators to teach DevOps. Some of theses teaching methods are found in the paper [Overcomming Challenges in DevOps Education through Teaching Methods](https://arxiv.org/pdf/2302.05564.pdf) published at the academic conference **ICSE'23: Proceedings of the IEEE/ACM International Conference on Software Engineering**. 
 
 ### Table of Content
 
-- [Teaching experiences by Teaching Method](#teaching-experiences-by-teaching-method) 
+- [Challenges overcome by Teaching Methods](#challenge-overcome-by-teaching-method) 
 - [Contributors and contribute](#contributors-and-contribute)
 - [License](#license)
 
-## Teaching experiences by Teaching Method
+## Challenges overcome by Teaching Methods
 
-To facilitate understanding, the challenges were organized in themes. Then, theses are the following themes:
+To facilitate understanding, the challenges were organized in teaching methods. Then, theses are the following teaching methods:
+
+### [Project-based learning](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
+
+```
+Definition: It focuses on a project in which the students work on a concrete task. [Indiramma, M.. “Project based learning — Theoretical foundation of computation course” (2014)] 
+```
+
+### [Collaborative learning](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
+
+```
+Definition: The students work collaboratively exchanging information and resolving tasks. The teacher is the active partner not just a repository of the information such as traditional education. [Pivec et al. “Aspects of Game-Based Learning.” (2003)]
+```
+
+
+### [Educational support tool](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
+
+```
+Definition: A tool or integrated environment used to support the teaching or learning. [Qurat-ul-Ain et al. “A Review of Technological Tools in Teaching and Learning Computer Science.” Education (2019)]
+```
+
+
+### [Example-based learning](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
+
+```
+Definition: It's based on providing worked examples that illustrate a written account of how a problem should be or can be solved. [Van Gog et al. "Example-Based Learning: Integrating Cognitive and Social-Cognitive Research Perspectives" (2010)]
+```
+
+### [Personalized learning](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
+
+```
+Definition: It describes various instructional approaches aimed at meeting the learning needs of individuals. [Akyuz, Yasar."Effects of intelligent tutoring systems (ITS) on personalized learning (PL)" (2020)]
+```
+### [Labs](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
+
+```
+Definition: It involves accomplishing practical tasks exploring a computer science topic usually conducted in dedicated rooms equipped with computers for each student. [Hazzan et al. "Lab-based teaching" (2020)]
+```
+
+### [Mentoring](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
+
+```
+Definition: It is an approach to improving teaching by adopting a mentor to help the educator during educational activities. A mentor helps the team organize their work and tracks if the team’s planned didactic results are being achieved. [Dowdall et al. "Multinational, Intercultural, Multidisciplinary and Intensive (MIMI) Methodology to Enrich Soft Skills Development in Computer Science Students"(2021)] 
+```
+
+### [Seminar](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
+
+```
+Definition:  Students work in groups to discuss assigned questions and issues under the guidance of teachers. As an outcome of the seminars, the students give presentations or write an essay on their particular topic. [Zeng et al. "Effects of seminar teaching method versus lecture-based learning in medical education: a meta-analysis of randomized controlled trials" (2020)]
+```
+
+### [Tutorial](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
+
+```
+Definition: A video or documentation with the purpose of to introduce the more general reader to the theoretical or technical concepts as well as configurations steps. [Lokkila et al. "Redesigning Introductory Computer Science Courses to Use Tutorial-Based Learning" (2016)]
+```
+
+### [Discussion](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
+
+```
+Definition: It involves spoken communication between the teacher and the students, and students by themselves. The educator's role becomes a facilitator and incentives students to practice thinking about the course material [Cashin, W."Effective Classroom Discussions. Idea Paper No. 49" (2011)]
+```
+
+### [Quiz](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
+
+```
+Definition: Multiple-choice questions to the students as motivation strategy [Lacher et al. "The effectiveness of video quizzes in a flipped class"(2015)]
+```
+
+### [Research-based teaching](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
+
+```
+Definition: Students actively exploring and solving problems using scientific research approaches under the guidance of educators. [Ye et al. "Exploration and Practice of Research-based Teaching on Basic Chemistry Experiment in Local Colleges and Universities" (2017)]
+```
+
 
 
 ## Contributors and contribute

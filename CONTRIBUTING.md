@@ -19,8 +19,8 @@ This project and everyone participating in it is governed by [Code of Conduct](h
 ## How to Contribute
 - Star this repository if you like it.
 
-- Do you want share your teaching experience?  
-  [Share a new teaching experience](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/new?template=teaching_experience_request.md&title=[Teaching_Experience]).
+- Do you want share a challenge overcome by a teaching method?  
+  [Share a new challenge overcome](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/new?template=challenge_request.md&title=[Challenge]).
   
 - Did you find a bug?  
   [Open an issue](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/new?template=bug_report.md).
