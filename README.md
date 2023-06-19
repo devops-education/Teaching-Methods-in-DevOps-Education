@@ -20,7 +20,7 @@ It's a repository that contains a set of teaching experiences in DevOps. The obj
 
 ### Table of Content
 
-- [Challenges overcome by Teaching Methods](#challenge-overcome-by-teaching-method) 
+- [Challenges overcome by Teaching Methods](#challenge-overcome-by-teaching-methods) 
 - [Contributors and contribute](#contributors-and-contribute)
 - [License](#license)
 
@@ -49,6 +49,11 @@ Definition: The students work collaboratively exchanging information and resolvi
 - [Difficulty in understanding the importance of setting the environment.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 - [Difficulty in teaching the student how to operate the systems, allowing addiction of new features without breaking the system.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 - [Difficulty in evaluating the understanding of Continuous Delivery.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Difficulties in guaranteeing an efficient communication between everyone in the group](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Difficult in each student has all skills](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+
+
+
 
 ### [Educational support tool](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
@@ -67,6 +72,10 @@ Definition: A tool or integrated environment used to support the teaching or lea
 - [There is a large number of DevOps tools.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 - [The process of making students to migrato to other tools is bad.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 - [Difficulty in remote work with students: privacy, availability, infraestructure differences, environment configuration.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [The educational support tool takes long time processing](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Students require fast feedback.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Students have hard time debugging environment](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 
 
 
@@ -76,7 +85,7 @@ Definition: A tool or integrated environment used to support the teaching or lea
 Definition: It's based on providing worked examples that illustrate a written account of how a problem should be or can be solved. [Van Gog et al. "Example-Based Learning: Integrating Cognitive and Social-Cognitive Research Perspectives" (2010)]
 ```
 
-- [Students desinteres in cultural aspects of DevOps.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Students desinterest in cultural aspects of DevOps.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 - [Teach DevOps concepts to students no industrial experience is hard.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 - [Difficulty at select of a realistic example system for students.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 
@@ -96,16 +105,20 @@ Definition: It describes various instructional approaches aimed at meeting the l
 Definition: It involves accomplishing practical tasks exploring a computer science topic usually conducted in dedicated rooms equipped with computers for each student. [Hazzan et al. "Lab-based teaching" (2020)]
 ```
 
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Students may be not familiar with how to interact with version control tools from command line.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Limited documentation to support the labs.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Students get lost in large activities.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Students with difficulty in understanding of static analysis.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+
 
 ### [Mentoring](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
 Definition: It is an approach to improving teaching by adopting a mentor to help the educator during educational activities. A mentor helps the team organize their work and tracks if the team’s planned didactic results are being achieved. [Dowdall et al. "Multinational, Intercultural, Multidisciplinary and Intensive (MIMI) Methodology to Enrich Soft Skills Development in Computer Science Students"(2021)] 
 ```
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Instructors may not have the necessary technical skills necessary to a particular project.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [External collaborators can have low commitment to guide student.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Non-proactive teams may not request for mentoring.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 
 
 ### [Seminar](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
@@ -114,16 +127,14 @@ Definition: It is an approach to improving teaching by adopting a mentor to help
 Definition:  Students work in groups to discuss assigned questions and issues under the guidance of teachers. As an outcome of the seminars, the students give presentations or write an essay on their particular topic. [Zeng et al. "Effects of seminar teaching method versus lecture-based learning in medical education: a meta-analysis of randomized controlled trials" (2020)]
 ```
 
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Students not motivated to participate on discussions.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 
 ### [Tutorial](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
 Definition: A video or documentation with the purpose of to introduce the more general reader to the theoretical or technical concepts as well as configurations steps. [Lokkila et al. "Redesigning Introductory Computer Science Courses to Use Tutorial-Based Learning" (2016)]
 ```
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Outdated tutorial material due to the new version of the tool used during the course.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 
 
 ### [Discussion](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
@@ -131,8 +142,7 @@ Definition: A video or documentation with the purpose of to introduce the more g
 ```
 Definition: It involves spoken communication between the teacher and the students, and students by themselves. The educator's role becomes a facilitator and incentives students to practice thinking about the course material [Cashin, W."Effective Classroom Discussions. Idea Paper No. 49" (2011)]
 ```
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Students not motivated to participate on discussions.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 
 
 ### [Quiz](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
@@ -141,8 +151,7 @@ Definition: It involves spoken communication between the teacher and the student
 Definition: Multiple-choice questions to the students as motivation strategy
 [Lacher et al. "The effectiveness of video quizzes in a flipped class"(2015)]
 ```
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Students not motivated to participate on discussions.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 
 
 ### [Research-based teaching](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
@@ -152,8 +161,7 @@ Definition: Students actively exploring and solving problems using scientific re
 Practice of Research-based Teaching on Basic Chemistry Experiment in Local
 Colleges and Universities" (2017)]
 ```
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
-- [.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Challenge on learning with data from real setting.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 
 
 
