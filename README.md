@@ -31,7 +31,9 @@ To facilitate understanding, the challenges were organized in teaching methods. 
 ### [Project-based learning](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
-Definition: It focuses on a project in which the students work on a concrete task. [Indiramma, M.. “Project based learning — Theoretical foundation of computation course” (2014)] 
+Definition: It focuses on a project in which the students work on a concrete
+task. [Indiramma, M.. “Project based learning — Theoretical foundation of
+computation course” (2014)] 
 ```
 
 - [Lack of time for teachers to develop a ready-made and well-crafted example system.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
@@ -42,7 +44,10 @@ Definition: It focuses on a project in which the students work on a concrete tas
 ### [Collaborative learning](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
-Definition: The students work collaboratively exchanging information and resolving tasks. The teacher is the active partner not just a repository of the information such as traditional education. [Pivec et al. “Aspects of Game-Based Learning.” (2003)]
+Definition: The students work collaboratively exchanging information and
+resolving tasks. The teacher is the active partner not just a repository of the
+information such as traditional education. [Pivec et al. “Aspects of Game-Based
+Learning.” (2003)]
 ```
 - [It is difficult to teach agile tecnhiques.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 - [Doing a hands-on class with that many (45) students is just phisically challenging.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
@@ -58,7 +63,9 @@ Definition: The students work collaboratively exchanging information and resolvi
 ### [Educational support tool](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
-Definition: A tool or integrated environment used to support the teaching or learning. [Qurat-ul-Ain et al. “A Review of Technological Tools in Teaching and Learning Computer Science.” Education (2019)]
+Definition: A tool or integrated environment used to support the teaching or
+learning. [Qurat-ul-Ain et al. “A Review of Technological Tools in Teaching and
+Learning Computer Science.” Education (2019)]
 ```
 - [Difficulty in evaluating the understanding of Continuous Delivery.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 - [Insufficient literature related to teach DevOps.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
@@ -82,7 +89,9 @@ Definition: A tool or integrated environment used to support the teaching or lea
 ### [Example-based learning](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
-Definition: It's based on providing worked examples that illustrate a written account of how a problem should be or can be solved. [Van Gog et al. "Example-Based Learning: Integrating Cognitive and Social-Cognitive Research Perspectives" (2010)]
+Definition: It's based on providing worked examples that illustrate a written
+account of how a problem should be or can be solved. [Van Gog et al "Example-Based Learning:
+Integrating Cognitive and Social-Cognitive Research Perspectives" (2010)]
 ```
 
 - [Students desinterest in cultural aspects of DevOps.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
@@ -92,7 +101,9 @@ Definition: It's based on providing worked examples that illustrate a written ac
 ### [Personalized learning](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
-Definition: It describes various instructional approaches aimed at meeting the learning needs of individuals. [Akyuz, Yasar."Effects of intelligent tutoring systems (ITS) on personalized learning (PL)" (2020)]
+Definition: It describes various instructional approaches aimed at meeting the
+learning needs of individuals. [Akyuz, Yasar."Effects of intelligent tutoring
+systems (ITS) on personalized learning (PL)" (2020)]
 ```
 - [The multidisciplinary of DevOps is hard to deal with.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 - [Students difficulty in remote learning: in monitoring and keeping in contact.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
@@ -102,7 +113,9 @@ Definition: It describes various instructional approaches aimed at meeting the l
 ### [Labs](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
-Definition: It involves accomplishing practical tasks exploring a computer science topic usually conducted in dedicated rooms equipped with computers for each student. [Hazzan et al. "Lab-based teaching" (2020)]
+Definition: It involves accomplishing practical tasks exploring a computer
+science topic usually conducted in dedicated rooms equipped with computers for
+each student. [Hazzan et al. "Lab-based teaching" (2020)]
 ```
 
 - [Students may be not familiar with how to interact with version control tools from command line.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
@@ -114,7 +127,11 @@ Definition: It involves accomplishing practical tasks exploring a computer scien
 ### [Mentoring](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
-Definition: It is an approach to improving teaching by adopting a mentor to help the educator during educational activities. A mentor helps the team organize their work and tracks if the team’s planned didactic results are being achieved. [Dowdall et al. "Multinational, Intercultural, Multidisciplinary and Intensive (MIMI) Methodology to Enrich Soft Skills Development in Computer Science Students"(2021)] 
+Definition: It is an approach to improving teaching by adopting a mentor to help
+the educator during educational activities. A mentor helps the team organize their
+work and tracks if the team’s planned didactic results are being achieved.
+[Dowdall et al. "Multinational, Intercultural, Multidisciplinary and Intensive
+(MIMI) Methodology to Enrich Soft Skills Development in Computer Science students"(2021)] 
 ```
 - [Instructors may not have the necessary technical skills necessary to a particular project.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 - [External collaborators can have low commitment to guide student.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
@@ -124,7 +141,11 @@ Definition: It is an approach to improving teaching by adopting a mentor to help
 ### [Seminar](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
-Definition:  Students work in groups to discuss assigned questions and issues under the guidance of teachers. As an outcome of the seminars, the students give presentations or write an essay on their particular topic. [Zeng et al. "Effects of seminar teaching method versus lecture-based learning in medical education: a meta-analysis of randomized controlled trials" (2020)]
+Definition:  Students work in groups to discuss assigned questions and issues
+under the guidance of teachers. As an outcome of the seminars, the students give
+presentations or write an essay on their particular topic. [Zeng et al. "Effects
+of seminar teaching method versus lecture-based learning in medical education: a
+meta-analysis of randomized controlled trials" (2020)]
 ```
 
 - [Students not motivated to participate on discussions.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
@@ -132,7 +153,10 @@ Definition:  Students work in groups to discuss assigned questions and issues un
 ### [Tutorial](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
-Definition: A video or documentation with the purpose of to introduce the more general reader to the theoretical or technical concepts as well as configurations steps. [Lokkila et al. "Redesigning Introductory Computer Science Courses to Use Tutorial-Based Learning" (2016)]
+Definition: A video or documentation with the purpose of to introduce the more
+general reader to the theoretical or technical concepts as well as onfigurations
+steps. [Lokkila et al. "Redesigning Introductory Computer Science Courses to Use
+Tutorial-Based Learning" (2016)]
 ```
 - [Outdated tutorial material due to the new version of the tool used during the course.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 
@@ -140,7 +164,10 @@ Definition: A video or documentation with the purpose of to introduce the more g
 ### [Discussion](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
 ```
-Definition: It involves spoken communication between the teacher and the students, and students by themselves. The educator's role becomes a facilitator and incentives students to practice thinking about the course material [Cashin, W."Effective Classroom Discussions. Idea Paper No. 49" (2011)]
+Definition: It involves spoken communication between the teacher and the
+students, and students by themselves. The educator's role becomes a facilitator
+and incentives students to practice thinking about the course material [Cashin,
+W."Effective Classroom Discussions. Idea Paper No. 49" (2011)]
 ```
 - [Students not motivated to participate on discussions.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 
@@ -158,8 +185,7 @@ Definition: Multiple-choice questions to the students as motivation strategy
 
 ```
 Definition: Students actively exploring and solving problems using scientific research approaches under the guidance of educators. [Ye et al. "Exploration and
-Practice of Research-based Teaching on Basic Chemistry Experiment in Local
-Colleges and Universities" (2017)]
+Practice of Research-based Teaching on Basic Chemistry Experiment in Local Colleges and Universities" (2017)]
 ```
 - [Challenge on learning with data from real setting.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
 
