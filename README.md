@@ -18,9 +18,21 @@
 
 It's a repository that contains a set of teaching experiences in DevOps. The objective is to help DevOps educators to teach DevOps. Some of theses teaching methods are found in the paper [Overcomming Challenges in DevOps Education through Teaching Methods](https://arxiv.org/pdf/2302.05564.pdf) published at the academic conference **ICSE'23: Proceedings of the IEEE/ACM International Conference on Software Engineering**. 
 
-### Table of Content
+### Table of Content 
 
-- [Challenges overcome by Teaching Methods](#challenge-overcome-by-teaching-methods) 
+- [Challenges overcome by Teaching Methods](#challenges-overcome-by-teaching-methods)
+  - [Project-based learning](#project-based-learning) 
+  - [Collaborative Learning](#collaborative-learning)
+  - [Educational support tool](#educational-support-tool)
+  - [Example-based learning](#example-based-learning)
+  - [Personalized learning](#personalized-learning)
+  - [Labs](#labs)
+  - [Mentoring](#mentoring)
+  - [Seminar](#seminar)
+  - [Tutorial](#tutorial)
+  - [Discussion](#discussion)
+  - [Quiz](#quiz)
+  - [Research-based teaching](#research-based-teaching)
 - [Contributors and contribute](#contributors-and-contribute)
 - [License](#license)
 
