@@ -16,7 +16,7 @@
 </p>
 
 
-It's a repository that contains a set of teaching experiences in DevOps. The objective is to help DevOps educators to teach DevOps. Some of theses teaching methods are found in the paper [Overcomming Challenges in DevOps Education through Teaching Methods](https://arxiv.org/pdf/2302.05564.pdf) published at the academic conference **ICSE'23: Proceedings of the IEEE/ACM International Conference on Software Engineering**. 
+It's a repository that contains a set of challenge overcome by teaching methods in DevOps. The objective is to help DevOps educators to teach DevOps. Some of theses teaching methods are found in the paper [Overcomming Challenges in DevOps Education through Teaching Methods](https://arxiv.org/pdf/2302.05564.pdf) published at the academic conference **ICSE'23: Proceedings of the IEEE/ACM International Conference on Software Engineering**. 
 
 ### Table of Content 
 
@@ -38,7 +38,7 @@ It's a repository that contains a set of teaching experiences in DevOps. The obj
 
 ## Challenges overcome by Teaching Methods
 
-To facilitate understanding, the challenges were organized in teaching methods. Then, theses are the following teaching methods:
+To facilitate understanding, the challenges were organized in teaching methods. Each challenge is linked to a discussion. Then, theses are the following teaching methods:
 
 ### [Project-based learning](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
 
@@ -48,9 +48,9 @@ task. [Indiramma, M.. “Project based learning — Theoretical foundation of
 computation course” (2014)] 
 ```
 
-- [Lack of time for teachers to develop a ready-made and well-crafted example system.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
-- [Make a DevOps course attractive to the students is challenging.](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
-- [The customers had problem desiging the user interface of the project. ](https://github.com/devops-education/Teaching-Methods-in-Devops-Education/issues/)
+- [Lack of time for teachers to develop a ready-made and well-crafted example system.](https://github.com/devops-education/Teaching-Methods-in-DevOps-Education/discussions/1)
+- [Make a DevOps course attractive to the students is challenging.](https://github.com/devops-education/Teaching-Methods-in-DevOps-Education/discussions/2)
+- [The customers had problem desiging the user interface of the project. ](https://github.com/devops-education/Teaching-Methods-in-DevOps-Education/discussions/3)
 
 
 ### [Collaborative learning](https://github.com/devops-education/Challenges-in-Devops-Education/issues?q=is%3Aissue+is%3Aopen+label%3Acurriculum+label%3Achallenge-existed+)
